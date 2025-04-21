@@ -1,0 +1,10 @@
+thread_id,timestamp,user_query,response
+1,22:59:27,What is the current tarrif put on India by Trump,The current tariff put on India by Trump is 26%.
+1,23:00:32,"is ipl fixed ?
+
+","There have been allegations of fixing in the Indian Premier League (IPL) in the past, with some teams and players being involved in spot-fixing and betting scandals. However, it is important to note that these allegations are not necessarily proven and that the IPL has taken steps to prevent fixing and ensure the integrity of the game.
+
+In recent years, there have been some allegations of toss fixing and other forms of manipulation, but these have not been proven and are still being investigated. It's also worth noting that the IPL has a robust anti-corruption system in place, which includes measures such as monitoring of player and team activities, investigation of suspicious behavior, and penalties for those found guilty of wrongdoing.
+
+Ultimately, the question of whether the IPL is ""fixed"" is a complex one, and it's difficult to make a definitive statement without more information. However, it's clear that the IPL takes the issue of fixing seriously and is working to prevent it and ensure the integrity of the game."
+1,23:09:54,what is statewise employee count,"<function=query_travel_sqldb{""query"": ""SELECT state, COUNT(employee_id) FROM employees GROUP BY state""}</function>"
